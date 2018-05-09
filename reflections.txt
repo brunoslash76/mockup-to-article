@@ -1,0 +1,20 @@
+You've learned a lot about web development so far. 
+I want you to take a moment to write down your thoughts about web development here. 
+Answer the following questions:
+  * What new skills have you learned?  
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+How to search the web for contents I need to learn, team working is essencial to become a better professional.
+
+HTML and CSS are easy, the technical skills are weasy to get.
+
+So far, the only dificulty is to let layout in HTML looks 100% the same as in a MOCKUP
+
+To be honest I am already a developer so there wasn't a real chalenge, so far, but the tips gaven in the beginning was very rich.
+To rest, and face the problem one by one, and look up from an overview is perfect to get an impression of everithing, all sistem. 
